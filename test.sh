@@ -1,1 +1,2 @@
-go test ./src/sorting/ -check.f SortingTestSuite -v -check.b 1000
+go test ./src/sorting/ -check.f SortingTestSuite
+go test ./src/sorting/ -check.f SortingTestSuite  -check.b 1000 -v

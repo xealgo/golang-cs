@@ -12,7 +12,7 @@ go test ./src/sorting/ -check.f SortingTestSuite -v -check.b 1000
 ### Sorting
 * ```Bubble sort``` (done)
 * ```Quick sort``` (in progress)
-* ```Merge sort``` (coming soon)
+* ```Merge sort``` (done)
 * ```Heap sort``` (coming soon)
 * ```Selection sort``` (coming soon)
 * ```Quick sort 3``` (coming soon)
