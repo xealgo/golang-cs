@@ -11,14 +11,20 @@ go test ./src/sorting/ -check.f SortingTestSuite -v -check.b 1000
 
 ### Sorting
 * ```Bubble sort``` (done)
-* ```Quick sort``` (in progress)
 * ```Merge sort``` (done)
+* ```Quick sort``` (in progress)
 * ```Heap sort``` (coming soon)
 * ```Selection sort``` (coming soon)
 * ```Quick sort 3``` (coming soon)
 * ```Insertion sort``` (coming soon)
 * ```Shell sort``` (coming soon)
 
+### Data Structures
+* ```Self-balancing Binary Tree``` (in progress)
+* ```Trie``` (coming soon)
+
 ### Resources
 * https://stevenschmatz.gitbooks.io/data-structures-and-algorithms/
 * https://en.wikipedia.org/wiki/Dynamic_programming
+* https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures
+* http://blog.hackerearth.com/2015/05/top-7-algorithms-and-data-structures-every-programmer-should-know-about.html
