@@ -24,6 +24,10 @@ go test ./src/sorting/ -check.f SortingTestSuite -v -check.b 1000
 * ```Trie``` (coming soon)
 * ```Linked List``` (done)
 * ```Double Linked List``` (coming soon)
+* ```Stack``` (coming soon)
+* ```Queue``` (coming soon)
+* ```Dequeue``` (coming soon)
+* ```Red Black Tree``` (near future)
 
 ### Resources
 * https://stevenschmatz.gitbooks.io/data-structures-and-algorithms/
