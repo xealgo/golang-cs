@@ -22,6 +22,8 @@ go test ./src/sorting/ -check.f SortingTestSuite -v -check.b 1000
 ### Data Structures
 * ```Self-balancing Binary Tree``` (in progress)
 * ```Trie``` (coming soon)
+* ```Linked List``` (done)
+* ```Double Linked List``` (coming soon)
 
 ### Resources
 * https://stevenschmatz.gitbooks.io/data-structures-and-algorithms/
